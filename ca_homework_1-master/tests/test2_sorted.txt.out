@@ -1,0 +1,7 @@
+Sorted container:
+Container contains 5 elements.
+0: Cartoon: name = movie4, year = 1956, type = DRAW, year / name.len(): 326
+1: Cartoon: name = movie1, year = 2031, type = DRAW, year / name.len(): 338.5
+2: Cartoon: name = movie5, year = 2411, type = DRAW, year / name.len(): 401.833
+3: Cartoon: name = movie2, year = 2931, type = DRAW, year / name.len(): 488.5
+4: Cartoon: name = movie3, year = 5433, type = DRAW, year / name.len(): 905.5

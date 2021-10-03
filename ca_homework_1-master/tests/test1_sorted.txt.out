@@ -1,0 +1,9 @@
+Sorted container:
+Container contains 7 elements.
+0: Cartoon: name = movie5, year = 1954, type = DRAW, year / name.len(): 325.667
+1: Documentary: name = movie6, year = 1967, duration = 5, year / name.len(): 327.833
+2: Documentary: name = movie7, year = 1980, duration = 9, year / name.len(): 330
+3: Fiction: name = movie3, year = 1985, director = dfgdfgfd, year / name.len(): 330.833
+4: Cartoon: name = movie2, year = 1991, type = DRAW, year / name.len(): 331.833
+5: Documentary: name = movie4, year = 2020, duration = 200000, year / name.len(): 336.667
+6: Fiction: name = movie1, year = 2031, director = dayana, year / name.len(): 338.5

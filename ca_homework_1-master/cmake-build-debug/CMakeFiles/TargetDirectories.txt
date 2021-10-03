@@ -1,0 +1,3 @@
+/cygdrive/c/Users/Islombek/Downloads/ca_homework_1-master/ca_homework_1-master/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/cygdrive/c/Users/Islombek/Downloads/ca_homework_1-master/ca_homework_1-master/cmake-build-debug/CMakeFiles/edit_cache.dir
+/cygdrive/c/Users/Islombek/Downloads/ca_homework_1-master/ca_homework_1-master/cmake-build-debug/CMakeFiles/ACS-HW-TASK1.dir
